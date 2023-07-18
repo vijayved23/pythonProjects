@@ -2,7 +2,7 @@ import requests
 
 def main():
     headers = {
-	"X-RapidAPI-Key": "c6e6ade759mshfcc42affce18b0cp13bf2fjsn07d3842e38a9",
+	"X-RapidAPI-Key": "",
 	"X-RapidAPI-Host": "currency-converter-by-api-ninjas.p.rapidapi.com"
     }
 
